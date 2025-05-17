@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export default {
   FormContainer: styled.div`
-      isplay: flex;
+      display: flex;
       flex-direction: column;
       width: 50%;
       height: 100%;
